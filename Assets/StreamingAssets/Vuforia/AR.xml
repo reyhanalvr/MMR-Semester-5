@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Hanoman" size="0.150000 0.195714" />
+    <ImageTarget name="Arjuna" size="0.150000 0.194384" />
+    <ImageTarget name="Bima" size="0.150000 0.153378" />
+    <ImageTarget name="Nakula" size="0.150000 0.150000" />
+    <ImageTarget name="Semar" size="0.150000 0.161667" />
+    <ImageTarget name="d1c33e830d9ee17cdffffe9e29cf47ca" size="0.150000 0.200000" />
+  </Tracking>
+</QCARConfig>
